@@ -29,7 +29,7 @@ public class SalesForce {
 		driver.findElement(By.id("username")).sendKeys("svictor.titus@gmail.com");
 		
 		
-		driver.findElement(By.name("pw")).sendKeys("S1mple4!@#");
+		driver.findElement(By.name("pw")).sendKeys("wrwrw");
 		
 		//driver.findElement(By.xpath("//*[@id=\"Login\"]")).click();
 		driver.findElement(By.cssSelector("#Login")).click();
