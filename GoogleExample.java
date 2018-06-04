@@ -27,16 +27,7 @@ public class GoogleExample {
 		driver.get("http://facebook.com");
 		
 		
-		//By id, class, name, linktext locators
-		//driver.findElement(By.id("email")).sendKeys("svictor.titus@gmail.com");
-		//driver.findElement(By.name("pass")).sendKeys("S1mple4!@#");
-		//driver.findElement(By.linkText("Forgot account?")).click();
-		//driver.findElement(By.xpath("//*[@id=\"login_form\"]/table/tbody/tr[3]/td[2]/div/a")).click();
 		
-		//By xPath locator
-		/*driver.findElement(By.xpath("//input[@name=\"email\"]")).sendKeys("svictor.titus@gmail.com");
-		driver.findElement(By.xpath("//input[@name=\"pass\"]")).sendKeys("S1mple4!@#");
-		driver.findElement(By.xpath("//input[@value=\"Log In\"]")).click(); */
 		
 		//By Css locator
 		/*driver.findElement(By.cssSelector("input[name=\"email\"]")).sendKeys("abcd");
